@@ -1,9 +1,7 @@
 
 # SARBot - Surveillance and Rescue Bot
 
-## 🚀 Project Overview
-
-Currently in simulation phase
+##  Project Overview
 
 SARBot is a low-cost surveillance and rescue robot designed for **flooded, earthquake-prone, and disaster-prone areas**, capable of:
 
@@ -17,7 +15,7 @@ This project uses **ESP32-CAM, ultrasonic sensor, IR sensor, DHT11, buzzer, and 
 
 ---
 
-## 📦 Components Used
+## Components Used
 
 - ESP32-CAM module
 - HC-SR04 Ultrasonic Sensor
@@ -66,12 +64,11 @@ This project uses **ESP32-CAM, ultrasonic sensor, IR sensor, DHT11, buzzer, and 
 
 ---
 
-## ⚡ Testing Checklist
+## Testing Checklist
 
-✅ Moves forward by default when clear  
-✅ Detects obstacles (< 20 cm), stops, alerts, and turns to avoid  
-✅ Detects edges, stops, and alerts  
-✅ Reads and prints temperature and humidity values  
-✅ Buzzer and LED function for alerts  
-✅ Serial monitor provides clean status updates
+- Moves forward by default when clear  
+- Detects obstacles (< 20 cm), stops, alerts, and turns to avoid  
+- Detects edges, stops, and alerts  
+- Reads and prints temperature and humidity values  
+- Serial monitor provides clean status updates
 
