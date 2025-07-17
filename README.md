@@ -1,6 +1,8 @@
 
 # SARBot - Surveillance and Rescue Bot
 
+## !! Currently in simulation phase
+
 ##  Project Overview
 
 SARBot is a low-cost surveillance and rescue robot designed for **flooded, earthquake-prone, and disaster-prone areas**, capable of:
