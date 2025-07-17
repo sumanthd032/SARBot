@@ -1,5 +1,5 @@
 [wokwi]
 version = 1
-firmware = 'SARBot_Step1.ino'
-elf = 'SARBot_Step1.ino.elf'
+firmware = 'sketch.ino'
+elf = 'sketch.ino.elf'
 board = 'esp32-devkit-v1'
